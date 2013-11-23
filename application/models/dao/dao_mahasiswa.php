@@ -11,7 +11,7 @@ class Dao_mahasiswa extends CI_Model {
     
     
     private $mhs;
-    private final $_TABEL_MAHASISWA=""; // nama tabel mahasiswa
+    private $_TABEL_MAHASISWA=""; // nama tabel mahasiswa
     
     
     /*
